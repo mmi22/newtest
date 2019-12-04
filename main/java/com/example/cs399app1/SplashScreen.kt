@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.Window
 import android.view.WindowManager
+import android.widget.Button
 
 class SplashScreen : AppCompatActivity() {
 
@@ -16,8 +17,9 @@ class SplashScreen : AppCompatActivity() {
         setContentView(R.layout.activity_splash_screen)
 
         Handler().postDelayed({
-            startActivity(Intent(this@SplashScreen,MainActivity:class.java))
+            startActivity(Intent(this, MainActivity::class.java))
             finish()
-        }, 10000)
+        }, 5000)
+
     }
 }
