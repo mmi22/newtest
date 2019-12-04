@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CS399app1</string>
+    <string name="name_app">Foodr</string>
+    <string name="team_name">Team MJK</string>
+    <string name="help_button">HELP!!</string>
+    <string name="set_parameters_button">Set Parameters</string>
+    <string name="rest_name">Name of Restaurant</string>
+    <string name="decline_choice_button">Nah</string>
+    <string name="accept_choice_button">Yeah</string>
+    <string name="info_1">Restaurant info 1</string>
+    <string name="info_2">Restaurant info 2</string>
+    <string name="rest_hrs">Restaurant hours</string>
+    <string name="rest_address">Restaurant address</string>
+    <string name="get_direction_button">Get direction</string>
+    <string name="back_button">Back </string>
+    <string name="logo">Foodr logo</string>
+    <string name="welcome">Welcome to Foodr</string>
+    <string name="thai_cuisine">Thai Cuisine</string>
+</resources>
