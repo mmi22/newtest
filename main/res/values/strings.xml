@@ -16,4 +16,6 @@
     <string name="logo">Foodr logo</string>
     <string name="welcome">Welcome to Foodr</string>
     <string name="thai_cuisine">Thai Cuisine</string>
+    <string name="restart_button">Restart</string>
+    <string name="get_started">Click Here to Start</string>
 </resources>
